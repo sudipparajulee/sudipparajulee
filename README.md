@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Sudip Parajuli from Nawalpur, Nepal.
+#### Sudip Parajuli from Nawalpur, Nepal.
 ##### Managing Director at Bitmap I.T. Solution Pvt. Ltd. !!!
 ##### Full Stack Laravel Developer !!!
 
@@ -12,8 +12,8 @@
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sudipparajulee)
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@sudipparajuli8104)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipparajulee&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipparajulee&theme=dark)
+[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipparajulee&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipparajulee&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/sudipparajulee)
 <!--
