@@ -12,7 +12,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipparajulee&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipparajulee&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sudipparajulee&repo=sudipparajulee.github.io&show_owner=true)
 
 ![Profile views](https://gpvc.arturio.dev/sudipparajulee)
 <!--
