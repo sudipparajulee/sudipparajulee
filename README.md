@@ -10,9 +10,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sudipparajulee)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@sudipparajuli8104)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suyogkandel&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogkandel&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyogkandel&repo=suyogkandel.github.io&show_owner=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipparajulee&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipparajulee&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sudipparajulee&repo=sudipparajulee.github.io&show_owner=true)
 
 ![Profile views](https://gpvc.arturio.dev/sudipparajulee)
 <!--
