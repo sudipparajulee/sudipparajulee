@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Sudip Parajuli from Nawalpur, Nepal.
 ##### Managing Director at Bitmap I.T. Solution Pvt. Ltd. !!!
-##### Full Stack Laravel Developer !!!
+##### Full Stack Laravel, Flutter Developer !!!
 
 
 
