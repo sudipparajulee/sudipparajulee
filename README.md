@@ -12,8 +12,8 @@
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sudipparajulee)
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@sudipparajuli8104)
 
-[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipparajulee&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipparajulee&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Sudip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipparajulee&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudipparajulee&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/sudipparajulee)
 <!--
